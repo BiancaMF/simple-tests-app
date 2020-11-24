@@ -17,6 +17,7 @@ import java.security.InvalidParameterException;
 public class BandTest {
 
 	private JSONObject test;
+	private String password;
 
 	@Before
 	public void beforeEach() {
