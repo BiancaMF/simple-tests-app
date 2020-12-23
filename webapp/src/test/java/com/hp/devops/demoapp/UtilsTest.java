@@ -58,4 +58,5 @@ public class UtilsTest {
 		Assert.assertEquals(result.length, 1);
 		Assert.assertEquals(result[0], "some");
 	}
+	////////
 }
